@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Test-Wing</string>
+    <string name="btn_streaming_example">Streaming Example</string>
+    <string name="btn_downloading_example">Downloading Example</string>
+    <string name="btn_command_example">Custom Command Example</string>
+    <string name="btn_update">Update yt-dlp</string>
+    <string name="btn_start_stream">Start Stream</string>
+    <string name="btn_start_download">Start Download</string>
+    <string name="url_hint">enter url here</string>
+    <string name="btn_run_command">Run Command</string>
+    <string name="btn_stop_download">Stop Download</string>
+    <string name="btn_stop_command">Stop Command</string>
+    <string name="command_hint">enter command here</string>
+    <string name="url_error">enter a valid url</string>
+    <string name="command_error">enter a valid command</string>
+    <string name="start">Do the thing</string>
+    <string name="example_command">Example command: --extract-audio --audio-format mp3 -o /sdcard/Download/youtubedl-android/%(title)s.%(ext)s https://www.youtube.com/watch?v=dQw4w9WgXcQ</string>
+    <string name="download_start">Starting Download</string>
+    <string name="download_complete">Download Complete</string>
+    <string name="download_failed">Download Failed</string>
+    <string name="command_start">Starting Command</string>
+    <string name="command_complete">Command Complete</string>
+    <string name="command_failed">Command Failed</string>
+    <string name="use_config_file">Use Config File?</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>    <string name="return_img_description">Return</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string name="lengthConversion">Length Conversion</string>
+    <string name="playVideo">Play Video</string>
+</resources>
